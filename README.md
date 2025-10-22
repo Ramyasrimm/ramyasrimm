@@ -8,9 +8,9 @@
 
 <!-- Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=gokulvs&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/gokulvs?label=Followers&style=for-the-badge&color=blue" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/gokulvs?label=Stars&style=for-the-badge&color=yellow" alt="stars"/>
+  <img src="https://komarev.com/ghpvc/?username=Ramyasri&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Ramyasri?label=Followers&style=for-the-badge&color=blue" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/Ramyasri?label=Stars&style=for-the-badge&color=yellow" alt="stars"/>
 </p>
 
 <!-- Animated Separator -->
@@ -21,7 +21,7 @@
 ## 🚀 About Me
 
 ```python
-class GokulVS:
+class Ramyasri:
     def __init__(self):
         self.name = "Gokul V S"
         self.role = "Machine Learning Engineer"
@@ -47,7 +47,7 @@ class GokulVS:
             "🌐 Contributing to open-source AI projects"
         ]
 
-me = GokulVS()
+me = Ramyasri()
 print(f"👋 Hi! I'm {me.name}, passionate about {me.passion}")
 ```
 
@@ -95,17 +95,17 @@ print(f"👋 Hi! I'm {me.name}, passionate about {me.passion}")
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gokulvs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulvs&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramyasri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramyasri&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulvs&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramyasri&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="GitHub Streak"/>
 </div>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulvs&custom_title=Gokul's%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area_color=1F6FEB&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramyasri&custom_title=Gokul's%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area_color=1F6FEB&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 <div align="center">
@@ -115,7 +115,7 @@ print(f"👋 Hi! I'm {me.name}, passionate about {me.passion}")
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gokulvs&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ramyasri&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
 </div>
 
 <div align="center">
@@ -126,20 +126,20 @@ print(f"👋 Hi! I'm {me.name}, passionate about {me.passion}")
 
 <div align="center">
 
-<a href="https://github.com/gokulvs/ai-dashboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gokulvs&repo=ai-dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/Ramyasri/ai-dashboard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramyasri&repo=ai-dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
-<a href="https://github.com/gokulvs/neural-network-scratch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gokulvs&repo=neural-network-scratch&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/Ramyasri/neural-network-scratch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramyasri&repo=neural-network-scratch&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
-<a href="https://github.com/gokulvs/image-classifier">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gokulvs&repo=image-classifier&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/Ramyasri/image-classifier">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramyasri&repo=image-classifier&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
-<a href="https://github.com/gokulvs/chatbot-ai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gokulvs&repo=chatbot-ai&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/Ramyasri/chatbot-ai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramyasri&repo=chatbot-ai&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
 </div>
@@ -152,9 +152,9 @@ print(f"👋 Hi! I'm {me.name}, passionate about {me.passion}")
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gokulvs/gokulvs/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gokulvs/gokulvs/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gokulvs/gokulvs/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ramyasri/Ramyasri/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ramyasri/Ramyasri/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ramyasri/Ramyasri/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -195,7 +195,7 @@ mindmap
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gokulvs)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ramyasri)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
